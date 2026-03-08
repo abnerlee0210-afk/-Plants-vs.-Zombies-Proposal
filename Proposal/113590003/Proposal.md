@@ -10,7 +10,7 @@
 
 異形工廠是一款專注於自動化生產線的沙盒益智遊戲。玩家需要在無邊界的地圖上，開採、切割、旋轉、染色並組合不同形狀與顏色的幾何圖形，以滿足特定的交貨需求。
 
-[遊戲連結](https://www.youtube.com/watch?v=nmKO8gU0CT8)
+[遊戲連結](https://www.youtube.com/watch?v=B50vxkcpFck)
 
 # Development timeline
 
@@ -62,4 +62,5 @@
 - Week 17：提交
   - [ ] 拍攝影片
   - [ ] 製作遊戲簡報
+
   - [ ] 驗收並提交
